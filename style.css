@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/b8/da/50/b8da50e036f23bea77bd14d659e8ec2c.png");
+  }
+  #myCanvas{
+  background-color: white;
+  border-width: 3px;
+  border-color: red;
+  border-style: ridge;
+  }
+  h1 {
+    color: navy;
+  }
+
+label {
+  font-size: 10;
+  font-weight: bold;
+}
+input {
+  font-size: 10;
+}
